@@ -1,0 +1,18 @@
+.list {
+  margin-top: 10px;
+}
+
+.list li {
+  background-color: #080808;
+  padding: 10px;
+  border: none;
+  list-style-type: none; /* Remove default list item bullets */
+}
+
+.list li:hover {
+  background-color: #534a4a;
+}
+input {
+  height: 3vh;
+  font-size: 2vh;
+}
